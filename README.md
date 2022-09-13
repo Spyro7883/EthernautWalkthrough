@@ -10,4 +10,12 @@ Link: https://github.com/Spyro7883/00-Hello-Ethernaut
 
 ## 01: Fallback
 
+Link: https://github.com/Spyro7883/01-Fallback
+
+## 02: Fallout
+
+Link: https://github.com/Spyro7883/02-Fallout
+
+## 03: Coin Flip
+
 Link: Soon
